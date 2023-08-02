@@ -1,7 +1,6 @@
 ---
 title: test
-date: "2023-08-02T22:12+09:00"
-description: "概要"
+date: "2023-08-02 12:00"
 tags: ["animals", "Chicago", "zoos"]
 ---
 
